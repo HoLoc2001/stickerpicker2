@@ -1,7 +1,8 @@
 {
   "packs": [
     "tekbozzzzz.json",
-    "gif.json"
+    "gif.json",
+    "meme.json"
   ],
   "homeserver_url": "https://synapse.teknixcorp.com"
 }
